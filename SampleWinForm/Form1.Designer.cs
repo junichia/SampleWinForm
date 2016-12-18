@@ -105,7 +105,7 @@
             this.Controls.Add(this.txtNumber1);
             this.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.Name = "Form1";
-            this.Text = "Calculator１";
+            this.Text = "Calculator２";
             this.ResumeLayout(false);
             this.PerformLayout();
 
