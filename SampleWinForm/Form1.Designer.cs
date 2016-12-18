@@ -40,29 +40,32 @@
             this.txtNumber1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.txtNumber1.ImeMode = System.Windows.Forms.ImeMode.Disable;
-            this.txtNumber1.Location = new System.Drawing.Point(14, 13);
+            this.txtNumber1.Location = new System.Drawing.Point(23, 20);
+            this.txtNumber1.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.txtNumber1.MaxLength = 4;
             this.txtNumber1.Name = "txtNumber1";
-            this.txtNumber1.Size = new System.Drawing.Size(80, 19);
+            this.txtNumber1.Size = new System.Drawing.Size(131, 25);
             this.txtNumber1.TabIndex = 0;
             this.txtNumber1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtNumber_KeyPress);
             // 
             // txtNumber2
             // 
             this.txtNumber2.ImeMode = System.Windows.Forms.ImeMode.Disable;
-            this.txtNumber2.Location = new System.Drawing.Point(146, 13);
+            this.txtNumber2.Location = new System.Drawing.Point(243, 20);
+            this.txtNumber2.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.txtNumber2.MaxLength = 4;
             this.txtNumber2.Name = "txtNumber2";
-            this.txtNumber2.Size = new System.Drawing.Size(80, 19);
+            this.txtNumber2.Size = new System.Drawing.Size(131, 25);
             this.txtNumber2.TabIndex = 1;
             this.txtNumber2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtNumber_KeyPress);
             // 
             // txtAnswer
             // 
-            this.txtAnswer.Location = new System.Drawing.Point(258, 12);
+            this.txtAnswer.Location = new System.Drawing.Point(430, 18);
+            this.txtAnswer.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.txtAnswer.Name = "txtAnswer";
             this.txtAnswer.ReadOnly = true;
-            this.txtAnswer.Size = new System.Drawing.Size(120, 19);
+            this.txtAnswer.Size = new System.Drawing.Size(197, 25);
             this.txtAnswer.TabIndex = 2;
             // 
             // cmbOperator
@@ -73,16 +76,18 @@
             "－",
             "×",
             "÷"});
-            this.cmbOperator.Location = new System.Drawing.Point(100, 12);
+            this.cmbOperator.Location = new System.Drawing.Point(167, 18);
+            this.cmbOperator.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.cmbOperator.Name = "cmbOperator";
-            this.cmbOperator.Size = new System.Drawing.Size(40, 20);
+            this.cmbOperator.Size = new System.Drawing.Size(64, 26);
             this.cmbOperator.TabIndex = 3;
             // 
             // btnEqual
             // 
-            this.btnEqual.Location = new System.Drawing.Point(232, 10);
+            this.btnEqual.Location = new System.Drawing.Point(387, 15);
+            this.btnEqual.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.btnEqual.Name = "btnEqual";
-            this.btnEqual.Size = new System.Drawing.Size(20, 23);
+            this.btnEqual.Size = new System.Drawing.Size(33, 34);
             this.btnEqual.TabIndex = 4;
             this.btnEqual.Text = "＝";
             this.btnEqual.UseVisualStyleBackColor = true;
@@ -90,16 +95,17 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(390, 44);
+            this.ClientSize = new System.Drawing.Size(650, 66);
             this.Controls.Add(this.btnEqual);
             this.Controls.Add(this.cmbOperator);
             this.Controls.Add(this.txtAnswer);
             this.Controls.Add(this.txtNumber2);
             this.Controls.Add(this.txtNumber1);
+            this.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.Name = "Form1";
-            this.Text = "Calculator";
+            this.Text = "Calculator１";
             this.ResumeLayout(false);
             this.PerformLayout();
 
