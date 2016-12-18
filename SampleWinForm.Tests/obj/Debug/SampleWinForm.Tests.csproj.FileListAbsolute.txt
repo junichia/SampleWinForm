@@ -1,0 +1,15 @@
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\bin\Debug\SampleWinForm.Tests.dll
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\bin\Debug\SampleWinForm.Tests.pdb
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\bin\Debug\SampleWinForm.exe
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\bin\Debug\SampleWinForm.pdb
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\bin\Debug\ja\Microsoft.Pex.Framework.resources.dll
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\bin\Debug\ja\Microsoft.ExtendedReflection.resources.dll
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\obj\Debug\SampleWinForm.Tests.csprojResolveAssemblyReference.cache
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\obj\Debug\SampleWinForm.Tests.dll
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm.Tests\obj\Debug\SampleWinForm.Tests.pdb

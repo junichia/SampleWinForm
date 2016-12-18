@@ -1,1 +1,9 @@
 C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm\bin\Debug\SampleWinForm.exe.config
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm\bin\Debug\SampleWinForm.exe
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm\bin\Debug\SampleWinForm.pdb
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm\obj\Debug\SampleWinForm.csprojResolveAssemblyReference.cache
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm\obj\Debug\SampleWinForm.Properties.Resources.resources
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm\obj\Debug\SampleWinForm.csproj.GenerateResource.Cache
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm\obj\Debug\SampleWinForm.exe
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm\obj\Debug\SampleWinForm.pdb
+C:\Users\junichia\Documents\GitHub\SampleWinForm\SampleWinForm\bin\Debug\System.Web.Mvc.dll

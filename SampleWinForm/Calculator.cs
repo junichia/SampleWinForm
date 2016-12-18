@@ -19,6 +19,9 @@
 
         public int Divide(int number1, int number2)
         {
+            if (number2 == 0) return 0;
+            else if (number1 == int.MinValue && number2 == -1) return 0;
+            
             return number1 / number2;
         }
     }
